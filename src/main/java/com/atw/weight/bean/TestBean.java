@@ -2,7 +2,7 @@ package com.atw.weight.bean;
 
 public class TestBean {
 
-	private int id;
+	private int id; 
 	private String name;
 
 	public int getId() {
